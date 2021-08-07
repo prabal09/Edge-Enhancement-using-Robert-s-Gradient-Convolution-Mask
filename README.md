@@ -8,4 +8,7 @@ Robert Gradient: Robert Gradient falls under the category of Gradient-based tech
 
 
 This gradient assumes relatively large values for prominent edges and small values in regions that are fairly smooth, and zero for regions that have a constant gray-level.
+
+
+
 ![img_grad](https://user-images.githubusercontent.com/32479901/128588631-63b1500e-cfc4-4dba-ab69-3524b04b696c.JPG)
